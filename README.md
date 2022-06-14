@@ -1,3 +1,3 @@
 # PropertiesFile
 
-A java program help your program to open, edit, save properties file.
+A java api help your program to open, edit, save properties file.
